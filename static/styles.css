@@ -11,7 +11,7 @@
 body {
   font-family: 'Lora', Georgia, serif;
   background: var(--bg);
-  background-image: url('./files/little_heart.gif');
+  background-image: url('little_heart.gif');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
